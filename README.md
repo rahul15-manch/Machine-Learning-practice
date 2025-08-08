@@ -3,7 +3,7 @@ Supervised Machine Learning Models
 This repository contains implementations of various Supervised Machine Learning models built using Python and popular data science libraries.
 It covers both classification and regression techniques with clear, commented code for learning and practice.
 
-Models Implemented:
+🧠 Models Implemented:
 Linear Regression
 Logistic Regression
 Decision Tree
@@ -13,14 +13,22 @@ K-Nearest Neighbors (KNN)
 Gradient Boosting (Ada Boost, Gradient Boost)
 
 
-Features:
+📊Features:
 Data preprocessing (handling missing values, encoding, scaling)
 Model training & evaluation
 Performance metrics (Accuracy, Precision, Recall, F1-Score, RMSE)
 Visualization of results using Matplotlib and Plotly
 
-Install dependencies:
+🚀Install dependencies:
 pip install -r requirements.txt
+
+Author
+Rahul Manchanda
+📧 rahulmanchanda015@gmail.com
+🔗 https://www.linkedin.com/in/rahul-manchanda-3959b120a/ | https://github.com/rahul15-manch
+
+
+
 
 
 
