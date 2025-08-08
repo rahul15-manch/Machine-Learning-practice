@@ -1,0 +1,13 @@
+prefix=/Users/rahulmanchanda/Desktop/python/venv
+exec_prefix=/Users/rahulmanchanda/Desktop/python/venv
+libdir=/Users/rahulmanchanda/Desktop/python/venv/lib
+sharedlibdir=/Users/rahulmanchanda/Desktop/python/venv/lib
+includedir=/Users/rahulmanchanda/Desktop/python/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
